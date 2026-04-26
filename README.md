@@ -16,13 +16,12 @@ Academic Year 2025/2026
 
 ## Data
 
-Main file 'Script' include:
+Main file `Script` include:
 
-- 'training_script.ipynb'  # model training pipeline  
-- 'training_params.json'  # training configuration  
-- 'testing_script.ipynb'  # evaluation and inference   
-- 'best_model.pt'  # trained model weights  
-
+- `training_script.ipynb`  # model training pipeline  
+- `training_params.json`  # training configuration  
+- `testing_script.ipynb`  # evaluation and inference   
+- `best_model.pt`  # trained model weights
 
 ---
 
