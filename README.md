@@ -21,7 +21,6 @@ Main file `Script` include:
 - `training_script.ipynb`  # model training pipeline  
 - `training_params.json`  # training configuration  
 - `testing_script.ipynb`  # evaluation and inference   
-- `best_model.pt`  # trained model weights
 
 ---
 
